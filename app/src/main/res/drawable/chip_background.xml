@@ -1,0 +1,6 @@
+<!-- chip_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="4dp" /> <!-- Set a small corner radius here -->
+    <solid android:color="#000"/> <!-- Customize the background color -->
+</shape>

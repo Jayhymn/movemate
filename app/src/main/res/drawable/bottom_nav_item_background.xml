@@ -1,0 +1,22 @@
+<!-- res/drawable/bottom_nav_item_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Selected state -->
+    <item android:state_checked="true">
+        <layer-list>
+            <item android:gravity="top">
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/color_on_secondary" />
+                    <size android:height="4dp" />
+                </shape>
+            </item>
+            <item android:drawable="@android:color/transparent" />
+        </layer-list>
+    </item>
+
+    <!-- Default state -->
+    <item>
+        <color android:color="@android:color/transparent" />
+    </item>
+
+</selector>

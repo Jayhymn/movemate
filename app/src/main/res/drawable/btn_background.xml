@@ -1,0 +1,6 @@
+<!-- rounded_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="25dp" /> <!-- Set the corner radius to give curved edges -->
+    <solid android:color="@color/accent_color" /> <!-- Change the background color as needed -->
+</shape>

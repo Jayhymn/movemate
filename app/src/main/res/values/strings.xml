@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoveMate</string>
+    <string name="title_home">Home</string>
+    <string name="title_calculate">Calculate</string>
+    <string name="title_shipment">Shipment</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_location">  Your location</string>
+    <string name="default_address">Werthimer, Illinois</string>
+    <string name="tracking">Tracking</string>
+    <string name="shipment">Shipments</string>
+    <string name="destination">Destination</string>
+    <string name="waiting_to_collect">Waiting to Collect</string>
+    <string name="tracking_details">%s • %s → %s</string>
+    <string name="delivery_details">Your delivery, %s from %s, is arriving today!</string>
+    <string name="cost_estimate_message">This amount is estimated this will vary\n if you change your location or weight</string>
+</resources>
